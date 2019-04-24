@@ -1,0 +1,15 @@
+Playing video games is a popular pastime for kids of all ages. For most kids, the video game journey begins at the video game store and ends at the couch. But have you ever given any thought to all the work that goes into creating the video games you love?
+
+Some people see video games as simple electronic toys that do not take long to produce. In reality, though, the most popular modern video games are complex productions that rival the biggest summer blockbusters created by Hollywood movie studios. Video games can take a year or longer to be made!
+
+Video games might have started out as chasing around a moving dot across a black screen, but today's modern games are interactive marvels that resemble movies and allow for complex game play across a wide variety of settings.
+
+Every modern video game begins with a story. Whether it's a simulation of a historical event or role-playing scenario in a future fantasy world, the story drives the action of the video game and creates a strong bond between the player and the characters in the game.
+
+Writers, artists, designers, and programmers must collaborate to create all the parts of the story, including the characters, the settings, the music and other sounds, and the possible paths the story can take. Unlike movies, which contain a single storyline, video games must account for all the potential paths intense gameplay can take.
+
+Today's gamers expect life-like video games with the best graphics possible. Characters are expected to move like real people would and objects are usually expected to loosely follow the laws of physics. Settings must look like the real world…or whatever fake world exists in the video game. The level of detail that artists and designers must achieve is challenging. That's why it could take over a hundred people to develop a single video game!
+
+Once all the elements of the video game have been designed, it's up to computer experts to put it all together to make it work effectively as a video game. All the characters, settings, sounds, and gameplay elements must be programmed to work together seamlessly.
+
+Computer programmers must write millions of lines of computer language instructions — called code — that control all aspects of the game. Code can be written in a variety of different computer languages, such as C++, Python, Visual Basic, and Perl.
